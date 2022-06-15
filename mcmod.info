@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "stay",
+    "name": "Stay_loader",
+    "description": "stay",
+    "version": "0.22",
+    "mcversion": "1.12.2",
+    "logoFile": "Stay.png",
+    "url": "NO url",
+    "updateUrl": "0.1",
+    "authorList": [
+      "By;cuican"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

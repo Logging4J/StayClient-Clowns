@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+FMLCorePluginContainsFMLMod: true
+FMLAT: stay_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.alpha432.stay.loader.FMLCoreMod
+Main-Class: me.alpha432.stay.loader.JianShao
+
